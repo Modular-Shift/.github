@@ -8,10 +8,9 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-React%20%7C%20Next.js%20%7C%20Node.js-61DAFB?style=flat-square&logo=react" alt="Web Development">
+  <img src="https://img.shields.io/badge/Performance-Optimized%20Solutions-00D4AA?style=flat-square&logo=speedtest" alt="Performance">
   <img src="https://img.shields.io/badge/SEO-Strategy%20%7C%20Optimization-4285F4?style=flat-square&logo=google" alt="SEO">
   <img src="https://img.shields.io/badge/AI-Automation%20%7C%20Integration-FF6B6B?style=flat-square&logo=openai" alt="AI">
-  <img src="https://img.shields.io/badge/Performance-Optimized%20Solutions-00D4AA?style=flat-square&logo=speedtest" alt="Performance">
 </div>
 
 ---
