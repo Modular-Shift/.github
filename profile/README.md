@@ -43,10 +43,10 @@ We use AI to do the boring stuff better: analyze, automate, improve. No gimmicks
 
 | Service | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚀 **Web Development** | High-performance, modular websites | React, Next.js, Node.js |
+| 🚀 **Web Development** | High-performance, modular websites | Astro, Next.js, Payload CMS, Strapi CMS |
 | 📊 **SEO Strategy** | Sustainable visibility solutions | Technical SEO, Content Strategy |
 | 🤖 **AI Automation** | Smart workflow optimization | OpenAI, Custom Integrations |
-| ⚡ **Performance** | Speed-first optimization | Core Web Vitals, Lighthouse |
+| 📝 **Content Strategy** | Engaging, SEO-optimized content | Content Planning, Copywriting, SEO |
 
 ---
 
@@ -60,6 +60,9 @@ We use AI to do the boring stuff better: analyze, automate, improve. No gimmicks
   <h2>🚀 Ready to Level Up?</h2>
   <p><strong>If you're a founder, agency, or creator looking to level up your digital presence with smarter systems — we're here to help you shift.</strong></p>
   
+  <a href="https://modularshift.com">
+    <img src="https://img.shields.io/badge/Website-Visit%20Us-00D4AA?style=for-the-badge&logo=globe" alt="Website">
+  </a>
   <a href="mailto:hello@modularshift.com">
     <img src="https://img.shields.io/badge/Contact%20Us-Get%20Started-blue?style=for-the-badge&logo=mail" alt="Contact Us">
   </a>
